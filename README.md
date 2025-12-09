@@ -14,7 +14,11 @@
 
 > pytest --alluredir=./allure-results
 
-### <h>3. Посмотреть отчет по прогону html</h>
+### <h>3. Запустить все тесты параллельно:</h>
+
+> pytest -n auto
+
+### <h>4. Посмотреть отчет по прогону html</h>
 
 > allure serve ./allure-results
 
