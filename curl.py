@@ -1,0 +1,1 @@
+main_site = 'https://uts.sirius.online//#/auth/register/qainternship'
